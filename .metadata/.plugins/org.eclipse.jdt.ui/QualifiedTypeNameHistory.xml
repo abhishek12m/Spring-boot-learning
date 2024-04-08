@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="basics.Animal"/>
+    <fullyQualifiedTypeName name="basics.Dog"/>
+    <fullyQualifiedTypeName name="basics.Outer"/>
+    <fullyQualifiedTypeName name="basics.Outer.Inner"/>
+    <fullyQualifiedTypeName name="basics.Shape"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="basics.Circle"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="basics.MyFunctionalInterface"/>
+    <fullyQualifiedTypeName name="basics.MyClass"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,13 @@
+package basics;
+
+import basics.Outer.Inner;
+
+public class Main {
+	public static void main(String[] args) {
+//		Dog g = new Dog();
+//		g.makeSound();
+		
+		Inner i=new Inner();
+		i.display();
+	}
+}

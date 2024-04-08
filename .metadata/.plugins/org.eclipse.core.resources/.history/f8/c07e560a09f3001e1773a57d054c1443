@@ -1,0 +1,13 @@
+package basics;
+
+public class Main {
+	public static void main(String[] args) {
+//		Dog g = new Dog();
+//		g.makeSound();
+		
+		
+		Outer oObj=new Outer();
+		Outer.Inner iObj=oObj.new Inner();
+		iObj.display();
+	}
+}

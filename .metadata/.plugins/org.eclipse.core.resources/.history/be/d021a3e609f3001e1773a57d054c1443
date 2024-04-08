@@ -1,0 +1,10 @@
+package basics;
+
+public class MyClass {
+	
+	void display() {
+		MyFunctionalInterface obj=()->System.out.println("Lambda Expression");
+		obj.myMethod();
+	}
+
+}

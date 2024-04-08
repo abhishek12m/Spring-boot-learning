@@ -1,0 +1,29 @@
+package basics;
+
+public class Main {
+	public static void main(String[] args) {
+		
+		//abstract keyword
+//		Dog g = new Dog();
+//		g.makeSound();
+		
+		//Inner class
+//		Outer oObj=new Outer();
+//		Outer.Inner iObj=oObj.new Inner();
+//		iObj.display();
+		
+		//Interface
+//		Circle c=new Circle(4);
+//		System.out.println(c.calArea());
+		
+		//Functional Interface
+//		MyClass m=new MyClass();
+//		m.display();
+		
+		//lambda expression
+//		MyClass obj=new MyClass();
+//		obj.display(()->System.out.println("Lamda Expresssion"));
+		
+		
+	}
+}
